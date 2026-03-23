@@ -8,20 +8,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=DSA+%7C+Machine+Learning;Building+Real+Projects;First+Principles+Thinking" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-175%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  <img src="https://img.shields.io/badge/Academic%20Performance-Top%20CGPA%20(9.87%2F10)-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge"/>
-</p>
-
 ---
 
 ## 🧠 About Me
 
-* 🎓 **Education:** B.Tech CSE (AIML), SRM IST — **CGPA: 9.87 / 10.0**
-* 🧩 **Problem Solving:** Solved **185+ DSA problems** focusing on Arrays, Recursion, and DP.
-* 🤖 **Objective:** Building ML + system-oriented solutions with practical applications
-* ⚡ **Philosophy:** Deep focus on **first-principles thinking** over memorization.
-* 🌌 **Interests:** Photography (night sky & landscapes).
+I like building systems that combine logic, data, and real-world impact.
+
+* 🧩 Solved **185+ DSA problems**, focusing on patterns over memorization
+* 🤖 Currently exploring **Machine Learning + system design** through real projects
+* ⚙️ Interested in how things work under the hood — from algorithms to data pipelines
+* 🚀 Building projects like risk engines, intelligent reporting systems, and data-driven applications
+
+⚡ I prefer understanding **why something works** rather than just making it work.
 
 ---
 
